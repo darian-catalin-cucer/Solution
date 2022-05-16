@@ -1,4 +1,4 @@
-[ 1 LINER ]  0ms  O(n)time / BEATS 100% MEMORY / SPEED MAY 2022
+[0ms][99.97%][1LINER] O(n) time complexity | O(n) space complexity
 (Note: This is part of a series of Leetcode solution explanations. If you like this solution or find it useful, ***please upvote*** this post.)
 ***Take care brother, peace, love!***
 
