@@ -6,7 +6,6 @@
 ```
 
 The best result for the code below is ***0ms / 38.2MB*** (beats 92.04% / 24.00%).
-* *** X ***
 
 ```
 
