@@ -5,7 +5,7 @@
 ```
 ```
 
-The best result for the code below is ***0ms / 38.2MB*** (beats 92.04% / 24.00%).
+The best result for the code below is ***0ms / 3.27MB*** (beats 99.04% / 90.42%).
 
 ```
 
